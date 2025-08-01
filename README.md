@@ -39,4 +39,4 @@
 
 ## ✨ ¡Gracias por pasar!
 
-Si te gusta lo que hago, ¡seguime en redes o dejá una ⭐ en algún repo!
+Si te gusta lo que hago, ¡seguime en redes o deja una ⭐ en algún repositorio!
