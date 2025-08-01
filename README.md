@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy ZentarDev
-![https://github.com/mouredev](./banner.png)
+![https://github.com/ZentarDev](./banner.png)
 🎥 Creador de contenido sobre programación, tecnología, proyectos makers y mucho más.  
 💡 Me gusta compartir lo que aprendo y ayudar a otros a crecer en el mundo tech.
 
