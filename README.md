@@ -8,8 +8,8 @@
 ## 🚀 Lo que hago
 
 - 🔧 Desarrollo de software, automatización y proyectos IoT.
-- 🎓 Enseño programación de forma simple y directa.
-- 🎬 Subo contenido tech a YouTube, TikTok, Instagram y X.
+- 🎓 Comparto mi evolución por el mundo de la programación.
+- 🎬 Subo contenido tech a YouTube.
 
 ---
 
@@ -25,9 +25,6 @@
 ## 🌐 Encontrame en redes
 
 - [📺 YouTube - ZentarDev](https://www.youtube.com/@zentardev)
-- [📱 TikTok - @zentardev](https://www.tiktok.com/@zentardev)
-- [📸 Instagram - @zentardev](https://www.instagram.com/zentardev)
-- [🐦 X (Twitter) - @zentardev](https://x.com/zentardev)
 
 ---
 
