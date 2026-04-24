@@ -5,6 +5,12 @@
 🎥 Content creator about **programming, AI, and data science**.
 💡 I build projects with Python, explore machine learning, and share what I learn along the way.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZentarDev/ZentarDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZentarDev/ZentarDev/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ZentarDev/ZentarDev/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🚀 What I Do
