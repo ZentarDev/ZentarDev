@@ -2,7 +2,7 @@
 
 ![https://github.com/ZentarDev](./banner.png)
 
-🎥 Content creator about **programming, AI, and data science**.
+<!-- 🎥 Content creator about **programming, AI, and data science**. -->
 💡 I build projects with Python, explore machine learning, and share what I learn along the way.
 
 <picture>
@@ -45,11 +45,11 @@
 
 ---
 
-## 🌐 Find Me on Social Media
+<!-- ## 🌐 Find Me on Social Media
 
 - [📺 YouTube](https://www.youtube.com/@zentardev)
 - [🌟 LeetCode](https://leetcode.com/u/zentardev/)
----
+--- -->
 
 ## 📊 Stats
 
